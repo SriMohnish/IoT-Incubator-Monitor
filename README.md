@@ -1,4 +1,4 @@
-# IoT Smart Incubator Monitoring System 🏥
+# IoT Smart Incubator Monitoring System
 
 ### Project Overview
 A simulated medical system designed to monitor neonatal incubator environments. It integrates embedded hardware (Arduino) with a Python-based central station for real-time safety alerts and data logging.
